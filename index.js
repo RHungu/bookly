@@ -1,9 +1,3 @@
-// const Joi = require('joi'); //we shall use this package for validation of input sent into the API
-// const express =  require('express'); //Express framework will be useful for defining various routes/context for the application
-// const app = express();
-// app.use(express.json());
-
-
 const Joi = require('joi');
 const express = require('express');
 const app = express();

@@ -1,0 +1,23 @@
+{
+  "name": "bookly",
+  "version": "1.0.0",
+  "description": "A book lending application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RHungu/bookly.git"
+  },
+  "author": "Raphael Hungu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RHungu/bookly/issues"
+  },
+  "homepage": "https://github.com/RHungu/bookly#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.2.1"
+  }
+}
